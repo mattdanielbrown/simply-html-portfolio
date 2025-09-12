@@ -20,7 +20,7 @@
   "homepage": "https://github.com/alexandonie/simply#readme",
   "devDependencies": {
     "@babel/core": "^7.5.5",
-    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-env": "^7.28.3",
     "autoprefixer": "^9.6.1",
     "babel-eslint": "^10.0.2",
     "babel-loader": "^8.0.6",
